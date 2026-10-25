@@ -1,0 +1,189 @@
+{
+  "at": "2026-10-25T22:16:32.722344+00:00",
+  "technical_slice": "PASS",
+  "playwright": "1.64.1",
+  "chromium": "156.0.8078.4",
+  "fixtures": "developer-known original synthetic game; proposed copy authored by this assistant",
+  "draft": [
+    {
+      "id": "A01",
+      "issues": [],
+      "overflow_px": 0,
+      "font_px": 13.3333,
+      "copy_height": 17.5,
+      "box_height": 102
+    },
+    {
+      "id": "A02",
+      "issues": [
+        "Text exceeds the card’s copy area"
+      ],
+      "overflow_px": 192.5,
+      "font_px": 13.3333,
+      "copy_height": 294.5,
+      "box_height": 102
+    },
+    {
+      "id": "A03",
+      "issues": [
+        "A printed number differs from the source"
+      ],
+      "overflow_px": 0,
+      "font_px": 13.3333,
+      "copy_height": 17.5,
+      "box_height": 102
+    },
+    {
+      "id": "A04",
+      "issues": [
+        "A game-symbol token differs from the source"
+      ],
+      "overflow_px": 0,
+      "font_px": 13.3333,
+      "copy_height": 17.5,
+      "box_height": 102
+    },
+    {
+      "id": "A05",
+      "issues": [
+        "Glossary: use Karte / Karten for card"
+      ],
+      "overflow_px": 0,
+      "font_px": 13.3333,
+      "copy_height": 34.8125,
+      "box_height": 102
+    },
+    {
+      "id": "A06",
+      "issues": [],
+      "overflow_px": 0,
+      "font_px": 13.3333,
+      "copy_height": 35,
+      "box_height": 102
+    }
+  ],
+  "edited": [
+    {
+      "id": "A01",
+      "issues": [],
+      "overflow_px": 0,
+      "font_px": 13.3333,
+      "copy_height": 17.5,
+      "box_height": 102
+    },
+    {
+      "id": "A02",
+      "issues": [],
+      "overflow_px": 0,
+      "font_px": 13.3333,
+      "copy_height": 52.125,
+      "box_height": 102
+    },
+    {
+      "id": "A03",
+      "issues": [],
+      "overflow_px": 0,
+      "font_px": 13.3333,
+      "copy_height": 17.5,
+      "box_height": 102
+    },
+    {
+      "id": "A04",
+      "issues": [],
+      "overflow_px": 0,
+      "font_px": 13.3333,
+      "copy_height": 17.5,
+      "box_height": 102
+    },
+    {
+      "id": "A05",
+      "issues": [],
+      "overflow_px": 0,
+      "font_px": 13.3333,
+      "copy_height": 34.8125,
+      "box_height": 102
+    },
+    {
+      "id": "A06",
+      "issues": [],
+      "overflow_px": 0,
+      "font_px": 13.3333,
+      "copy_height": 35,
+      "box_height": 102
+    }
+  ],
+  "pdf_pages": 6,
+  "pdf_media_points": [
+    [
+      178.582677,
+      249.448819
+    ],
+    [
+      178.582677,
+      249.448819
+    ],
+    [
+      178.582677,
+      249.448819
+    ],
+    [
+      178.582677,
+      249.448819
+    ],
+    [
+      178.582677,
+      249.448819
+    ],
+    [
+      178.582677,
+      249.448819
+    ]
+  ],
+  "raw_chromium_media_points": [
+    [
+      179.03999,
+      249.12
+    ],
+    [
+      179.03999,
+      249.12
+    ],
+    [
+      179.03999,
+      249.12
+    ],
+    [
+      179.03999,
+      249.12
+    ],
+    [
+      179.03999,
+      249.12
+    ],
+    [
+      179.03999,
+      249.12
+    ]
+  ],
+  "pdf_media_normalized_without_font_scaling": true,
+  "font_size_unchanged": true,
+  "approval_reset_after_edit": true,
+  "source_unchanged": true,
+  "semantic_counterexample": {
+    "source_means": "may draw",
+    "test_copy_means": "must draw",
+    "mechanical_findings": [],
+    "automatic_semantic_validation": false
+  },
+  "boundaries": [
+    "prepared examples, no in-app model",
+    "single built-in template",
+    "RGB proof PDF, no PDF-X/CMYK verification",
+    "no user/independent/holdout study"
+  ],
+  "product_value_vs_strong_assistant": "NOT_RUN",
+  "human_effort_reduction": "NOT_MEASURED",
+  "agent_native_integration": "NOT_RUN",
+  "independent_review": "NOT_RUN",
+  "next_decision": "CONDITIONAL_GO_FOR_BOUNDED_MVP_PROPOSAL; no prize or improvement claim"
+}

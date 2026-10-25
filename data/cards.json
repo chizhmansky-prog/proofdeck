@@ -1,0 +1,50 @@
+[
+  {
+    "id": "A01",
+    "name": "Amber Coin",
+    "source": "Gain 2 {GOLD}.",
+    "draft": "Erhalte 2 {GOLD}.",
+    "proposal": "Erhalte 2 {GOLD}.",
+    "accent": "#d8a84d"
+  },
+  {
+    "id": "A02",
+    "name": "Windrunner",
+    "source": "Move up to 3 {STEP}. You may draw 1 card, then discard 1 card.",
+    "draft": "Bewege deine Spielfigur auf dem Spielplan um bis zu 3 {STEP} weit in eine Richtung deiner Wahl. Wenn du diese Bewegung vollständig abgeschlossen hast, darfst du anschließend aus dem gemeinsamen Kartenstapel genau 1 Karte auf deine Hand ziehen. Sobald du die Karte aufgenommen und angesehen hast, musst du als letzten Schritt dieses Effekts genau 1 Karte deiner Wahl von deiner Hand auf den dafür vorgesehenen Ablagestapel legen.",
+    "proposal": "Bewege dich bis zu 3 {STEP}. Du darfst 1 Karte ziehen und dann 1 Karte ablegen.",
+    "accent": "#65a79c"
+  },
+  {
+    "id": "A03",
+    "name": "Watchtower",
+    "source": "Gain 2 {SHIELD}.",
+    "draft": "Erhalte 3 {SHIELD}.",
+    "proposal": "Erhalte 2 {SHIELD}.",
+    "accent": "#879ab8"
+  },
+  {
+    "id": "A04",
+    "name": "Dawn Pact",
+    "source": "Spend 1 {GOLD} to draw 2 cards.",
+    "draft": "Zahle 1 {SHIELD} und ziehe 2 Karten.",
+    "proposal": "Zahle 1 {GOLD} und ziehe 2 Karten.",
+    "accent": "#d39882"
+  },
+  {
+    "id": "A05",
+    "name": "Quiet Market",
+    "source": "Gain 1 {GOLD}. You may draw 1 card.",
+    "draft": "Erhalte 1 {GOLD}. Du darfst 1 Blatt ziehen.",
+    "proposal": "Erhalte 1 {GOLD}. Du darfst 1 Karte ziehen.",
+    "accent": "#9e91b3"
+  },
+  {
+    "id": "A06",
+    "name": "Silver Gate",
+    "source": "Move 2 {STEP}, then gain 1 {SHIELD}.",
+    "draft": "Bewege dich 2 {STEP} und erhalte dann 1 {SHIELD}.",
+    "proposal": "Bewege dich 2 {STEP} und erhalte dann 1 {SHIELD}.",
+    "accent": "#91aeb0"
+  }
+]

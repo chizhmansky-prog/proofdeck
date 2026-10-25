@@ -1,0 +1,62 @@
+[
+  {
+    "id": "publisher-workflow",
+    "url": "https://mindclashgames.com/news/language-versions-challenges-and-strategies-for-multilingual-production/",
+    "status": "FETCH_FAILED",
+    "reason": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "professional-translator",
+    "url": "https://www.iti.org.uk/resource/translating-fun.html",
+    "status": "FETCH_FAILED",
+    "reason": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "production-service",
+    "url": "https://boardgamecircus.com/translation/",
+    "status": "FETCHED",
+    "bytes": 328267,
+    "checked_at": "2026-10-25T22:08:33.153713+00:00"
+  },
+  {
+    "id": "competitor-tabletop",
+    "url": "https://tabletop-creator.com/",
+    "status": "FETCHED",
+    "bytes": 370655,
+    "checked_at": "2026-10-25T22:08:32.875944+00:00"
+  },
+  {
+    "id": "competitor-agent",
+    "url": "https://tabletop-creator.com/the-6-ai-tools-that-will-help-your-board-game/",
+    "status": "FETCHED",
+    "bytes": 298572,
+    "checked_at": "2026-10-25T22:08:32.897931+00:00"
+  },
+  {
+    "id": "competitor-fit",
+    "url": "https://help.component.studio/article/535-text-layer",
+    "status": "FETCHED",
+    "bytes": 36274,
+    "checked_at": "2026-10-25T22:08:32.884116+00:00"
+  },
+  {
+    "id": "competitor-loc-agent",
+    "url": "https://www.algebras.ai/agent-harness",
+    "status": "FETCHED",
+    "bytes": 101112,
+    "checked_at": "2026-10-25T22:08:32.621421+00:00"
+  },
+  {
+    "id": "competitor-overset",
+    "url": "https://overset.alpyalay.org/",
+    "status": "FETCH_FAILED",
+    "reason": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "contest-rules",
+    "url": "https://www.builder.io/hackathon/rules",
+    "status": "FETCHED",
+    "bytes": 55035,
+    "checked_at": "2026-10-25T22:08:32.667297+00:00"
+  }
+]

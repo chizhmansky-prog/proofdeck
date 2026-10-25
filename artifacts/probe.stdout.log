@@ -1,0 +1,55 @@
+{
+  "at": "2026-10-25T22:16:32.722344+00:00",
+  "technical_slice": "PASS",
+  "playwright": "1.64.1",
+  "chromium": "156.0.8078.4",
+  "fixtures": "developer-known original synthetic game; proposed copy authored by this assistant",
+  "pdf_pages": 6,
+  "raw_chromium_media_points": [
+    [
+      179.03999,
+      249.12
+    ],
+    [
+      179.03999,
+      249.12
+    ],
+    [
+      179.03999,
+      249.12
+    ],
+    [
+      179.03999,
+      249.12
+    ],
+    [
+      179.03999,
+      249.12
+    ],
+    [
+      179.03999,
+      249.12
+    ]
+  ],
+  "pdf_media_normalized_without_font_scaling": true,
+  "font_size_unchanged": true,
+  "approval_reset_after_edit": true,
+  "source_unchanged": true,
+  "semantic_counterexample": {
+    "source_means": "may draw",
+    "test_copy_means": "must draw",
+    "mechanical_findings": [],
+    "automatic_semantic_validation": false
+  },
+  "boundaries": [
+    "prepared examples, no in-app model",
+    "single built-in template",
+    "RGB proof PDF, no PDF-X/CMYK verification",
+    "no user/independent/holdout study"
+  ],
+  "product_value_vs_strong_assistant": "NOT_RUN",
+  "human_effort_reduction": "NOT_MEASURED",
+  "agent_native_integration": "NOT_RUN",
+  "independent_review": "NOT_RUN",
+  "next_decision": "CONDITIONAL_GO_FOR_BOUNDED_MVP_PROPOSAL; no prize or improvement claim"
+}

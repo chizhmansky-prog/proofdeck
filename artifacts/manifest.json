@@ -1,0 +1,20 @@
+{
+  "artifacts/german-card-proof.pdf": "2b21b5784fa87c3326ffe7a40dc37ca85ee0c0a7efdd20ac861ad07d93688c89",
+  "artifacts/chromium-raw-proof.pdf": "a4f3d8a86630ae629221ed0c60456507d27bcff64a942b91fa1626d5ad6702e2",
+  "artifacts/draft.png": "67dd8ff14c95e55d324766f2e1b78303a16a13a4e82e7013246acafc0a09232c",
+  "artifacts/probe.json": "fe0acfedacafae9a25e68040f7d99f8e924671d46137f1d57aed49fba24d90e2",
+  "artifacts/edited.png": "3ae53312f610414c87bd2016012129b3e7fe3f55d5e5fee50fddadbc16098f16",
+  "artifacts/preview.html": "42cb0a11762dded1b38eaa697b713086c4187945d85e4f998bf80481fd98ed00",
+  "build.py": "2e64bc0ac69483daa22a77fea603a971dd646164a67365bbcf073d8ec444d60f",
+  "probe.py": "d2a7acd74dfeb47f6aa82417b1ed2f6653632f1e7e7654e81691d222a7cc7ce3",
+  "ui.html": "f9d641ed230ecf425f542055ea64b40e2e11a262c56da7e28ab5249077c7c5f2",
+  "data/cards.json": "65c968db810eb590f85e251d51756ab8804f7e805029f03c8d9deb4a2e7ac783",
+  "EXPERIMENT.md": "f82689a7f87b0a656d8930f614069790344c46fc7f538d755d95f9646e0e604a",
+  "README.md": "b2cd443000405f816ce42dc23741b80205b7e84c49784e7ff5adc244c3894ba3",
+  "STRATEGY.md": "c122d878e2b5e67fc3900e238e06cf1d76535944e8b8e526eec7845308693e90",
+  "requirements.lock": "db54c9886236b43338a36e18ad5797087c420c89444ece64629ffd7df2227bb6",
+  "third_party/DejaVu-font-license.txt": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9",
+  "research/sources.json": "6ffdb74b31324b8cf7cf907b7d2ea56accb32db5b57e93846623920ab04abec8",
+  "artifacts/probe.stdout.log": "149d936f4e9cf001973b07d8c67a794cc9ef9c10705f5bead16ea14939784cfb",
+  "artifacts/probe.stderr.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}
