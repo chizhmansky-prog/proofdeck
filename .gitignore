@@ -4,3 +4,6 @@
 .browsers/
 __pycache__/
 .env*
+research/*.source
+artifacts/install.log
+artifacts/browser-install.log
