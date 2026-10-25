@@ -1,0 +1,23 @@
+{
+  "source": "proofdeck-demo-full.mp4",
+  "source_kind": "Real Playwright browser recording, no mocked responses",
+  "output": "proofdeck-demo.mp4",
+  "source_segments_seconds": [
+    [
+      12,
+      20
+    ],
+    [
+      38,
+      55
+    ],
+    [
+      63,
+      65.6
+    ]
+  ],
+  "nominal_output_seconds": 27.599999999999994,
+  "edits": "Opening/loading and part of AI waiting removed; captions disclose shortened waiting. No response frames generated or replaced.",
+  "audio": "None; English captions burned into video",
+  "clips_submission": "NOT_SUBMITTED"
+}

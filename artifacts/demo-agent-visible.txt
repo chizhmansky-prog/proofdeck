@@ -1,0 +1,90 @@
+ProofDeck
+Home
+Card decks
+New Chat
+My chats
+Review every card in this deck. Fix numbers, symbols and glossary errors
+Review every card in this deck. Fix numbers, symbols and glossary errors
+2m ago
+Review every card in this deck. Fix numbers, symbols and glossary errors
+3m ago
+Review every card in this deck. Fix numbers, symbols and glossary errors and ove
+8m ago
+DL
+dev@local.test
+Dev's workspace
+ProofDeck
+WORDS THAT MAKE IT TO THE TABLE
+Import CSV
+Review deck
+PDF proof
+Harbor & Moon — live demo
+Harbor & Moon — live demo
+The Amber Atlas
+Contract verification 2026-10-25T22:45:25+00:00
+Harbor & Moon — live demo
+
+English
+German
+63 × 88 mm · 10 pt fixed
+
+Glossary
+Revision 2
+Measuring the rendered layout…
+Meaning review required
+Harbor Ledger
+ACTION / LOCALIZATION PROOF
+
+Zahle 4 G, um 2 Karten zu ziehen.
+
+H01 / German · PROOF
+H01 · 2 findings
+Proposal
+Night Courier
+ACTION / LOCALIZATION PROOF
+
+Bewege deine Spielfigur auf dem gesamten Spielplan um bis zu 5 ➜ weit in eine Richtung deiner Wahl. Wenn du diese Bewegung vollständig abgeschlossen hast darfst du anschließend als freiwilligen zusätzlichen Schritt dieser Aktion insgesamt 1 S für deine Spielfigur erhalten und auf deinem persönlichen Spielertableau ablegen.
+
+H02 / German · PROOF
+H02 · 1 finding
+Proposal
+
+Physical dimensions stay fixed. Mechanical checks support your review of the game rules.
+
+COPY DESK
+H01
+Harbor Ledger
+ENGLISH SOURCE
+Spend 4 {GOLD} to draw 2 cards.
+GERMAN WORDING
+Save wording
+Ask agent
+Agent proposal
+Preview
+Zahle 3 {SHIELD} und ziehe 2 Karten.
+Zahle 4 {GOLD}, um 2 Karten zu ziehen.
+
+Korrigiert Kosten von 3 {SHIELD} auf 4 {GOLD}. Die 2 Karten bleiben erhalten; „Karten“ entspricht dem Glossar.
+
+Accept wording
+Reject
+CURRENT WORDING CHECKS
+Printed numbers differ from the source.
+Game-symbol tokens differ from the source.
+I reviewed the meaning of this entire revision. Export an editorial proof for further review.
+Approve revision
+Approval is revoked by any edit. PDF is an RGB editorial proof; production prepress remains separate.
+Review every card in this deck. Fix numbers, symbols and glossary errors and ove
+Review every card in this deck. Fix numbers, symbols and glossary errors
+Review every card in this deck. Fix numbers, symbols and glossary errors and overflowing wording. Save necessary proposals and inspect their rendered layout at fixed 10 pt. Preserve all original game rules.
+11:54 PM
+Worked for 22s
+
+Bei H02 bleibt zur menschlichen Prüfung offen, ob die zusätzlichen Richtungs- und Ablagevorgaben anderweitig verbindlich sind; der Quelltext enthält sie nicht.
+
+2 proposal(s) saved for your review. Proposed wording passed mechanical checks at 10 pt. Meaning still needs your review.
+
+
+
+
+Act

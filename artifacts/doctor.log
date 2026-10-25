@@ -1,0 +1,8 @@
+
+> app@ agent-native:doctor /home/codex/new/proofdeck/app
+> agent-native doctor
+
+agent-native doctor: /home/codex/new/proofdeck/app
+Guards run: no-drizzle-push, no-empty-migrations, no-unscoped-credentials, no-unscoped-queries, no-env-credentials, db-tool-scoping, no-env-mutation, no-localhost-fallback, explicit-collab-access, identity-columns-registered, resource-action-access, feature-dependencies, server-plugin-default-export, migration-manifest
+Disk: 49.7 GB free of 91.1 GB.
+Clean — no findings.

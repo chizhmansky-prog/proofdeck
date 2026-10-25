@@ -1,0 +1,13 @@
+{
+  "time_utc": "2026-10-25T22:55:53.709676+00:00",
+  "status": "PASS",
+  "checks": [
+    "Concurrent agent request for the same owner/deck rejected with 409",
+    "Closing the real SSE transport cancels the run and frees its slot",
+    "Cancellation before generation leaves the deck and proposals unchanged"
+  ],
+  "reopened_statuses": [
+    200
+  ],
+  "scope": "Real HTTP streaming cancellation; native sidebar Stop button itself not exercised here"
+}

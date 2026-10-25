@@ -1,0 +1,12 @@
+{
+  "time_utc": "2026-10-25T23:00:07.227416+00:00",
+  "status": "PASS",
+  "checks": [
+    "390 px viewport has no horizontal page overflow",
+    "Import dialog follows keyboard Tab; Escape dismisses it",
+    "Unsaved wording previews immediately and blocks switching/export",
+    "Reload restores saved wording instead of unsaved preview",
+    "Authenticated root lands on the domain route"
+  ],
+  "page_errors": []
+}

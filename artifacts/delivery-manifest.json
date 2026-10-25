@@ -1,0 +1,1136 @@
+{
+  "created_at_utc": "2026-10-25T23:08:53.264014+00:00",
+  "scope": "Source and review artifacts; runtime credentials, databases, caches and dependencies excluded",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 435,
+      "sha256": "bd32b8795e25b914b17450fd19d2e02d2157c158e42554f799187861fae21a09"
+    },
+    {
+      "path": "DEMO.md",
+      "bytes": 2334,
+      "sha256": "d6e8d543ec6c385116d433c369ea579e8de41fec1605ce70eae38a96e200d719"
+    },
+    {
+      "path": "EVALUATION.md",
+      "bytes": 1900,
+      "sha256": "23c155ea70fa6147bb3416eb0cd85a9436e8190f1aceb69754ae2f89b755088d"
+    },
+    {
+      "path": "EXPERIMENT.md",
+      "bytes": 2813,
+      "sha256": "f82689a7f87b0a656d8930f614069790344c46fc7f538d755d95f9646e0e604a"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1079,
+      "sha256": "a8c70df77d33ee45cbd5781bfda3ca1bfb142bac998cf112eb52922ec4098a14"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4288,
+      "sha256": "1eb27387cf078f490a0d88b1bf362e352cbdd1ce9cac2ff4203b1e6a8fd8fe83"
+    },
+    {
+      "path": "REPORT.md",
+      "bytes": 11594,
+      "sha256": "da06ee8ad777990b870b4e9bf21b537eda5b04d40fde0936904adb9000a1f90c"
+    },
+    {
+      "path": "STRATEGY.md",
+      "bytes": 13500,
+      "sha256": "8a2773ebea3fa7698a44812edfb734111a0e55a07cc2fa9abf0c23b3c23db336"
+    },
+    {
+      "path": "SUBMISSION.md",
+      "bytes": 3457,
+      "sha256": "84614c8f2fbc5e485543c1ae9e41d702d11dd12d3c55398402c36a45cd6cd8ec"
+    },
+    {
+      "path": "WORKPLAN.md",
+      "bytes": 2030,
+      "sha256": "b3c4250d5b67be9e6760b96ffbf7dc1ab098454cbb6634820d5f1cb1c504e664"
+    },
+    {
+      "path": "app/.agents/skills/actions/SKILL.md",
+      "bytes": 18919,
+      "sha256": "9439943dcc922e183e6305814b0f41ac870deccaadd70b72def5763413444d90"
+    },
+    {
+      "path": "app/.agents/skills/actions/references/action-fields.md",
+      "bytes": 14117,
+      "sha256": "97e63e73d8d78525c16fe1743f9e271ccadde58176767f0986b423f9a4345293"
+    },
+    {
+      "path": "app/.agents/skills/actions/references/examples.md",
+      "bytes": 3121,
+      "sha256": "4c7a0034a34b759099cb806cadd401b86d9d6a315838f5e72ef5bab497a296e7"
+    },
+    {
+      "path": "app/.agents/skills/actions/references/provider-apis.md",
+      "bytes": 5511,
+      "sha256": "12df3eac1d2df4327e2d770a9f1bd470ee98f34075986eadef62dc63bd8b25ea"
+    },
+    {
+      "path": "app/.agents/skills/adding-a-feature/SKILL.md",
+      "bytes": 16465,
+      "sha256": "c5338ad84747ae66c43aec3b89c321972855664d430b14aa6fb31314bf945795"
+    },
+    {
+      "path": "app/.agents/skills/agent-native-docs/SKILL.md",
+      "bytes": 7162,
+      "sha256": "19a37a04426271e7cc8731f1d4a52396080a9f8ada2497713fdd9aab88cfb4de"
+    },
+    {
+      "path": "app/.agents/skills/agent-native-toolkit/SKILL.md",
+      "bytes": 17085,
+      "sha256": "e311e2c5af9cbffce3a931b0f61c18b5fbf62e7046e47733615bf752f9174823"
+    },
+    {
+      "path": "app/.agents/skills/build-an-app/SKILL.md",
+      "bytes": 9852,
+      "sha256": "f0895daae484cb055d5f0fc6c465a2460f46517994936e3b5cb9bc5505c214c6"
+    },
+    {
+      "path": "app/.agents/skills/build-an-app/references/data-and-access.md",
+      "bytes": 7061,
+      "sha256": "366c36e7486c376acb521ab0752e504da1f7336a45f8f7c994e164d26379d2c4"
+    },
+    {
+      "path": "app/.agents/skills/build-an-app/references/edit-points-chat.md",
+      "bytes": 2806,
+      "sha256": "dd7770ea025fcd8e60b0f44de23efaedd3b7581ea49a2b3e650d55755fdffcc3"
+    },
+    {
+      "path": "app/.agents/skills/build-an-app/references/edit-points-default.md",
+      "bytes": 2595,
+      "sha256": "0707d3ffec4e405f6de16d76f1eeb1553cea68e7635ba9adaad0427a796098e8"
+    },
+    {
+      "path": "app/.agents/skills/build-an-app/references/rooms-example.md",
+      "bytes": 33575,
+      "sha256": "55eb48daaaae4fed24eb7c80e00cd09d492546eb3fbb194ddde4d3a1a0429b15"
+    },
+    {
+      "path": "app/.agents/skills/build-an-app/references/verification.md",
+      "bytes": 8399,
+      "sha256": "4622fc77c9e0a833c9265d53d2cc52e6dd0bf8e6541e6eb7ed8b1a1b75bc01e1"
+    },
+    {
+      "path": "app/.agents/skills/client-side-routing/SKILL.md",
+      "bytes": 3156,
+      "sha256": "566a981cb24da55878bf444328bc2c063ef116ccc850a5bce6687fdecea7d53d"
+    },
+    {
+      "path": "app/.agents/skills/context-awareness/SKILL.md",
+      "bytes": 12878,
+      "sha256": "a66526cbc5a18c73f246e60fe56469bc2736ea2d917ec4e5a7a0cd87d21c4a7b"
+    },
+    {
+      "path": "app/.agents/skills/customizing-agent-native/SKILL.md",
+      "bytes": 9580,
+      "sha256": "0ea6f963368d19f59c0b764f93dba8182acdeaa4112874dd8c28695eec6f5fef"
+    },
+    {
+      "path": "app/.agents/skills/delegate-to-agent/SKILL.md",
+      "bytes": 2353,
+      "sha256": "fbca6e207147a514cb2464f4b10b9259daf917986a42f8cc5dae9ad85bb0bceb"
+    },
+    {
+      "path": "app/.agents/skills/frontend-design/SKILL.md",
+      "bytes": 4835,
+      "sha256": "f6ba64d030b13b6825df76241a41bb1327888fff1a29f7ab4fb51a446492f8af"
+    },
+    {
+      "path": "app/.agents/skills/frontend-design/references/visual-direction.md",
+      "bytes": 5473,
+      "sha256": "caa44de3baf8903f9b04be54ff5cd8cc892e4cc78fe3b693eeaaef3c476456de"
+    },
+    {
+      "path": "app/.agents/skills/performance/SKILL.md",
+      "bytes": 4073,
+      "sha256": "a1d9988850f7f7a76a574c5f1492d4dea85fff8dba9644a1ad0e1e075df7909e"
+    },
+    {
+      "path": "app/.agents/skills/real-time-sync/SKILL.md",
+      "bytes": 6165,
+      "sha256": "a173181073d3bb96f4a3e616058e9e43310e60531b273696cae28d7a19cddf35"
+    },
+    {
+      "path": "app/.agents/skills/reliable-mutations/SKILL.md",
+      "bytes": 3447,
+      "sha256": "e8a32044955d2740be67e3c45fdd68b95ca431949eb901f16e78cd7bfedb9517"
+    },
+    {
+      "path": "app/.agents/skills/secrets/SKILL.md",
+      "bytes": 3613,
+      "sha256": "49fc57c2595e1f45ca93a88705f5647c3da7fbee3cf6706ad041626313a919a0"
+    },
+    {
+      "path": "app/.agents/skills/security/SKILL.md",
+      "bytes": 3734,
+      "sha256": "28124c16844ab98930531a727e85d5fac42b4cc9dcf149cffacd334405b36a14"
+    },
+    {
+      "path": "app/.agents/skills/shadcn-ui/SKILL.md",
+      "bytes": 3486,
+      "sha256": "4b2c85aaa521ab910665dea268dfa1c3e427d978943340cd56889f32be3d4e3f"
+    },
+    {
+      "path": "app/.agents/skills/sharing/SKILL.md",
+      "bytes": 13870,
+      "sha256": "11a8132f2f080bce87877c104c669a3a708c74230becc31d890a2fd1b01704c0"
+    },
+    {
+      "path": "app/.agents/skills/storing-data/SKILL.md",
+      "bytes": 16673,
+      "sha256": "d9dfd4406f7ea2a818c2ee42d8a2531017eb53b027865d9d0dee9db36c3135f8"
+    },
+    {
+      "path": "app/.env.example",
+      "bytes": 295,
+      "sha256": "b98e895adf4aa9d3076f67d9672c0960d67d659fbd3744b4fbde544c7800140f"
+    },
+    {
+      "path": "app/.gitignore",
+      "bytes": 412,
+      "sha256": "56d65639aac550aa9dfc3eff3908eb5d62bc7d11dc279018a96a3ff7eda1cdd1"
+    },
+    {
+      "path": "app/.ignore",
+      "bytes": 10,
+      "sha256": "086800ca9b7246ac1082f5a31ce1b161fd52cae1b56e14a786e024d4e9580d30"
+    },
+    {
+      "path": "app/.mcp.json",
+      "bytes": 111,
+      "sha256": "1517b01b814ef4753590ca3942d60ae31a8e3a03850f66d50abde9842df219a7"
+    },
+    {
+      "path": "app/.oxfmtrc.json",
+      "bytes": 136,
+      "sha256": "dc2dea824ea4a5efe8e93a43d87fc6f368b9885a26716273c8bf82168e85e54e"
+    },
+    {
+      "path": "app/AGENTS.md",
+      "bytes": 5192,
+      "sha256": "16432ee292568007ac0bf48c6902c1ba7a5b5e44c4a9d0a3fc828c436eb07b67"
+    },
+    {
+      "path": "app/CHANGELOG.md",
+      "bytes": 631,
+      "sha256": "4f28205ddfd87e48b8a701d7a19a77abe1bd66835cc6c8c900df9c2da986da6e"
+    },
+    {
+      "path": "app/CLAUDE.md",
+      "bytes": 5192,
+      "sha256": "16432ee292568007ac0bf48c6902c1ba7a5b5e44c4a9d0a3fc828c436eb07b67"
+    },
+    {
+      "path": "app/DESIGN.md",
+      "bytes": 1704,
+      "sha256": "7adabc503345d0b121277864a191cbfaf2b3860cf13f4da2132715fb06ed2402"
+    },
+    {
+      "path": "app/DEVELOPING.md",
+      "bytes": 13263,
+      "sha256": "fec4872d0d2e643355ae518fbeb92439a3b60652a4f85e60a9a8476826b76bd3"
+    },
+    {
+      "path": "app/README.md",
+      "bytes": 1208,
+      "sha256": "fe8ddbab3efb7dd23de68ceaf06ca79091989d3ebcdbd7a5f4396d6beae7d525"
+    },
+    {
+      "path": "app/actions/approve-proof.ts",
+      "bytes": 1795,
+      "sha256": "d8d17a5721bcc4752cdb3c30f1513a3c153d7190eb53887b13654c85a6368b2b"
+    },
+    {
+      "path": "app/actions/deck-history.ts",
+      "bytes": 696,
+      "sha256": "a3f73c75b7415326510401c6082354613dae52f4fd046c48295a5d2a790bd296"
+    },
+    {
+      "path": "app/actions/get-deck.ts",
+      "bytes": 512,
+      "sha256": "1dc2f1f003e82849fae07bf80124fa993f9ad201169aa7b5c8014e065a07f0d2"
+    },
+    {
+      "path": "app/actions/hello.ts",
+      "bytes": 377,
+      "sha256": "54a1088c2c080f7ed29d982b7a42e54dea5a734ce6bdc8ecd72f8bcff4462423"
+    },
+    {
+      "path": "app/actions/import-deck.ts",
+      "bytes": 1714,
+      "sha256": "1d4308baa3fb8c5dc8707a89968bee145727be4847ad0802d7f69e0f7b39c387"
+    },
+    {
+      "path": "app/actions/inspect-layout.ts",
+      "bytes": 1031,
+      "sha256": "ae4b0e120327529dd984cff82b7ead366bf6491696e66d3952399c08304c60a1"
+    },
+    {
+      "path": "app/actions/list-decks.ts",
+      "bytes": 642,
+      "sha256": "1c9b960dd55e5b45a8a6f870d3c143eb18f6038d7f4108613b080bf51b2b3316"
+    },
+    {
+      "path": "app/actions/navigate.ts",
+      "bytes": 1107,
+      "sha256": "b77991de5b011145da7bf1918b7a4c97c58c9ba7327ba416980e96dfb505211a"
+    },
+    {
+      "path": "app/actions/propose-copy.ts",
+      "bytes": 1483,
+      "sha256": "973c4d9bd4a432fb17996aca5991fa6ccf5814ce5cfb96c842ab9f0071db353c"
+    },
+    {
+      "path": "app/actions/provider-api-request.ts",
+      "bytes": 1752,
+      "sha256": "23280282dcb2cd1d1d689c90002bebd0deefc7fc739e4822d7eecaa21b09956e"
+    },
+    {
+      "path": "app/actions/review-copy.ts",
+      "bytes": 1566,
+      "sha256": "81051a8fa215c350958e79209e5825c464bfeb595fa69b529911f1bd551d86ae"
+    },
+    {
+      "path": "app/actions/run.ts",
+      "bytes": 74,
+      "sha256": "956c9765452dde4e0eab1fb8660d5b2231f2e97f275c91c3e9f4aa9e13ceed0b"
+    },
+    {
+      "path": "app/actions/update-deck.ts",
+      "bytes": 1243,
+      "sha256": "9026dea5633abbbcdc104b8250c0b3089bc79d732066cb2df338a57a60505ccf"
+    },
+    {
+      "path": "app/actions/view-screen.ts",
+      "bytes": 1157,
+      "sha256": "68e79498eedfad60a5c1acecdea6c8cc510e1334963129c97908817963fcb8fe"
+    },
+    {
+      "path": "app/agent-native.config.ts",
+      "bytes": 165,
+      "sha256": "92e695760d0ae598031f7f85062d8330bf3820143b74a4121de362450fb9100a"
+    },
+    {
+      "path": "app/agent-native.json",
+      "bytes": 108,
+      "sha256": "a16bb626ac3669ecc4969c08e12071fa04ff0cd3ae5a53c165ab785b2e2a7fbd"
+    },
+    {
+      "path": "app/app/components/chat/ChatHomeRedirect.tsx",
+      "bytes": 832,
+      "sha256": "9f31b11342bfb5ed51b4a4f063dcad156825c2ca5ff483f38346e5e4eb26b54f"
+    },
+    {
+      "path": "app/app/components/chat/ChatRouteContent.tsx",
+      "bytes": 45462,
+      "sha256": "de013609f3fb12dc2b3c70ed667e9fcdc09143fb0ba8d5bf20df8b4f00ba9b6d"
+    },
+    {
+      "path": "app/app/components/home/HomePage.tsx",
+      "bytes": 9383,
+      "sha256": "5ecf5a19723a2c09db270405ba9c56a487d11034307fb05b7381076002e36467"
+    },
+    {
+      "path": "app/app/components/layout/AgentInspector.tsx",
+      "bytes": 2261,
+      "sha256": "32610274c51c7d5d7b35a2cd96631bac9df54b6e7444f78d8d768aed3ca59061"
+    },
+    {
+      "path": "app/app/components/layout/Header.tsx",
+      "bytes": 1967,
+      "sha256": "029b6775f73b17cc9fdb1900e569221b8e7118f460a09e1eb651858494a6e578"
+    },
+    {
+      "path": "app/app/components/layout/Layout.tsx",
+      "bytes": 6219,
+      "sha256": "deaa85ab3960d0f2a7ebe15a61b9406b509b6692cd6014292de3fac7df6c26a3"
+    },
+    {
+      "path": "app/app/components/layout/Sidebar.tsx",
+      "bytes": 17857,
+      "sha256": "d681af8797849e6cd14e11f112427d8e0b92df9ddc541a16c390d5b65e1c0179"
+    },
+    {
+      "path": "app/app/components/ui/button.tsx",
+      "bytes": 49,
+      "sha256": "611eea55439244f796027065828dceb97051cd9119b48f4eed2ba4bd61edc837"
+    },
+    {
+      "path": "app/app/components/ui/card.tsx",
+      "bytes": 47,
+      "sha256": "88969eb176a9c1086d018e30152a9c368a1c47509658e03220271ac47dac0208"
+    },
+    {
+      "path": "app/app/components/ui/dialog.tsx",
+      "bytes": 49,
+      "sha256": "802f147afd61ea6efea5d60915566cdfc4c519342f7848e662dfd2d79b846af7"
+    },
+    {
+      "path": "app/app/components/ui/dropdown-menu.tsx",
+      "bytes": 56,
+      "sha256": "1e8ae11233052ad40a9165496280b94351b90524a577adefc98894f185b586b5"
+    },
+    {
+      "path": "app/app/components/ui/hover-card.tsx",
+      "bytes": 53,
+      "sha256": "057d1795ba35e77cf4f758a28193cb161fa323ddf2a9543c9b0ca04bb51bb7ef"
+    },
+    {
+      "path": "app/app/components/ui/input.tsx",
+      "bytes": 48,
+      "sha256": "1c3654eb0b313a66a83f8de0365392d7120269ff02aee825163ed2b97275a090"
+    },
+    {
+      "path": "app/app/components/ui/item.tsx",
+      "bytes": 47,
+      "sha256": "5f1c8516b668f865cf8a3034bc79b3cd175ce92d367879b1420fe70ea8fe4bd5"
+    },
+    {
+      "path": "app/app/components/ui/label.tsx",
+      "bytes": 48,
+      "sha256": "db8a598a4a20729d964a9358f5871284257a78497ddc0736121eace67529775c"
+    },
+    {
+      "path": "app/app/components/ui/separator.tsx",
+      "bytes": 52,
+      "sha256": "e4a4c67df262cb0636c4d2e20cac423a5aaf1f7d35bfcc0cb3796d0a23e77404"
+    },
+    {
+      "path": "app/app/components/ui/sheet.tsx",
+      "bytes": 48,
+      "sha256": "39e98690a46416a99ce6ac944b002603c8ac5472179c9dc704051544fffd83c1"
+    },
+    {
+      "path": "app/app/components/ui/skeleton.tsx",
+      "bytes": 51,
+      "sha256": "1ed9f7c6cba9d4e47765c645320661e05c35962bd809cea24ae9672a40902c71"
+    },
+    {
+      "path": "app/app/components/ui/textarea.tsx",
+      "bytes": 51,
+      "sha256": "61fd1fd30c56606721dc1c07fccd18c63b0b2e683b830d2c1a59c1b7828b4028"
+    },
+    {
+      "path": "app/app/components/ui/toolkit-provider.tsx",
+      "bytes": 535,
+      "sha256": "ad833943d121b9254da2c71e66b307ac7c7fac47f047fb9bac255deace7afce7"
+    },
+    {
+      "path": "app/app/components/ui/tooltip.tsx",
+      "bytes": 50,
+      "sha256": "f3c69d1b7701f6f4cf5f1a959ab6ae4232c58c6cd4234f576be5d1a62104a8d4"
+    },
+    {
+      "path": "app/app/design-system.ts",
+      "bytes": 127,
+      "sha256": "2a9471cfaa9ad6e51811cea6b00bdd52dca3fcc7c7ad9f054c97b135a202d84c"
+    },
+    {
+      "path": "app/app/entry.client.tsx",
+      "bytes": 383,
+      "sha256": "67a61ab8e12405d378a8297dba3d59c18eeadf8f2689f3301210a570d04488c1"
+    },
+    {
+      "path": "app/app/entry.server.tsx",
+      "bytes": 292,
+      "sha256": "1ceb704c7bba95a8b55bcdd828e68c27a91c9870a1c18b95fddc6c4a4d454dfe"
+    },
+    {
+      "path": "app/app/global.css",
+      "bytes": 6326,
+      "sha256": "2488ea926c5ac4431bf3c97c02546d42a9c5e2483e00c7efb956a5f6930e190a"
+    },
+    {
+      "path": "app/app/hooks/use-navigation-state.ts",
+      "bytes": 3937,
+      "sha256": "addf6688061b6c8efde62c95a7326e289ffddd6c5c458dadf7c04ac6d33dac45"
+    },
+    {
+      "path": "app/app/i18n-data.ts",
+      "bytes": 24125,
+      "sha256": "a77cb43a9f9ff2627b8d8f232896095dcd1835826ad4285d7544574c286fadd1"
+    },
+    {
+      "path": "app/app/i18n/ar-SA.ts",
+      "bytes": 4793,
+      "sha256": "a8353d2348a42b7ca215090f1c65d4c6d3f0c106047dff6d4c536f44e62bcb67"
+    },
+    {
+      "path": "app/app/i18n/de-DE.ts",
+      "bytes": 3932,
+      "sha256": "82f43ae66a3430dc2fcf6046b6b145b2aabcf1dbbae6937209dc1c46337c52b9"
+    },
+    {
+      "path": "app/app/i18n/en-US.ts",
+      "bytes": 3504,
+      "sha256": "4a76a9f5b0b995d427e14fef55a710fe78326e28162e90fc8ccbe08dde7db824"
+    },
+    {
+      "path": "app/app/i18n/es-ES.ts",
+      "bytes": 3876,
+      "sha256": "ba0489affe0a9f015fa9aae00e90f8f88c511a4aa595df0afe49640f71259399"
+    },
+    {
+      "path": "app/app/i18n/fr-FR.ts",
+      "bytes": 4077,
+      "sha256": "d48f6316be08c1c4277c48f5071f8394ad1b999c7e2dd14635ee8e897ae844fe"
+    },
+    {
+      "path": "app/app/i18n/hi-IN.ts",
+      "bytes": 6494,
+      "sha256": "0e86d14512a4ff2f9794a0d7e3ade886369f8e587e6950e95e384cff21442651"
+    },
+    {
+      "path": "app/app/i18n/index.ts",
+      "bytes": 585,
+      "sha256": "34181389232b30fc5fb9b499cbe6cc4a50defac2964f85f7f488808564c35e67"
+    },
+    {
+      "path": "app/app/i18n/ja-JP.ts",
+      "bytes": 4644,
+      "sha256": "48c0d72da4320697bf56e72990ac64be993df7ef9cabe2c7d2e4986abea699e2"
+    },
+    {
+      "path": "app/app/i18n/ko-KR.ts",
+      "bytes": 4112,
+      "sha256": "3188d57b33543615b4582e5ca179893bec4dd097801de22af6b4faab76766348"
+    },
+    {
+      "path": "app/app/i18n/pt-BR.ts",
+      "bytes": 3922,
+      "sha256": "f55665ec264911260fcbc65f0e449195bc0f7f647f49b19282e1cf057923cfed"
+    },
+    {
+      "path": "app/app/i18n/zh-CN.ts",
+      "bytes": 3436,
+      "sha256": "297baf136a4cf7801e066761ae2790b1ce2c67f04431edd92d394e93d63d4a98"
+    },
+    {
+      "path": "app/app/i18n/zh-TW.ts",
+      "bytes": 3463,
+      "sha256": "e32d7cffb9cf74ef6d853d32d2805171dfb8192f4fa509d43c93a5cd2a54292f"
+    },
+    {
+      "path": "app/app/lib/app-config.ts",
+      "bytes": 344,
+      "sha256": "bcc969acb892f4bcfebc8da85c4f4256d28bfbeeac05f1bd701a080d23b80289"
+    },
+    {
+      "path": "app/app/lib/chat-home-thread.ts",
+      "bytes": 2743,
+      "sha256": "95e8a4ba4a7962d24a1c54c10b15ec55eca22a74a99b367715157eb6ce6bb271"
+    },
+    {
+      "path": "app/app/lib/chat-paths.ts",
+      "bytes": 15139,
+      "sha256": "ac14bf06e5152fd5ba60aff55dadfd05a53d21498b8dd0d203c66e74c3c49f0d"
+    },
+    {
+      "path": "app/app/lib/proofdeck-agent.ts",
+      "bytes": 991,
+      "sha256": "f9c4f5d00ca8a7a4c1b36760cc48c4aa607453cda3a56d505ab1c00255db52e1"
+    },
+    {
+      "path": "app/app/lib/tab-id.ts",
+      "bytes": 109,
+      "sha256": "0dc745585c5cfe3d7d28ca0c5fce26849094e00d8c003c509a9ba2bb57b3955f"
+    },
+    {
+      "path": "app/app/lib/utils.ts",
+      "bytes": 50,
+      "sha256": "bf6272ab81ce0ad54d72ff65e1cf79a26faad75ab9943ad9fe0370b9a0e8b360"
+    },
+    {
+      "path": "app/app/root.tsx",
+      "bytes": 5964,
+      "sha256": "5cd3cb56659c54cb98eccb90a782b38d6884997399bfe5e409d2554ab5e1a621"
+    },
+    {
+      "path": "app/app/routes.ts",
+      "bytes": 237,
+      "sha256": "c330da51037ea2ba5db2c3c4e3a6d6d1604e2696f23630085e8ffc862dca1918"
+    },
+    {
+      "path": "app/app/routes/_index.tsx",
+      "bytes": 91,
+      "sha256": "0b4d0b30e5ad78e81b1e22b7851d9f0baf7d4af874b3c5cf405e000011578c7b"
+    },
+    {
+      "path": "app/app/routes/agent.tsx",
+      "bytes": 475,
+      "sha256": "cf3ec897955291616c20efe250b3abad1f5066e90d1cd45e686051c24ad5eda0"
+    },
+    {
+      "path": "app/app/routes/chat.$threadId.tsx",
+      "bytes": 177,
+      "sha256": "f514550ee64418e0b6e7739e9785cb7e43797e165aebc859439753381fb9b4f4"
+    },
+    {
+      "path": "app/app/routes/chat._index.tsx",
+      "bytes": 133,
+      "sha256": "b5236a1ef63a7c59d2bee4b311e04aeb4f7e38e4b034168a55b203b9df6acfc2"
+    },
+    {
+      "path": "app/app/routes/database.tsx",
+      "bytes": 437,
+      "sha256": "ba7fa2531a62f1dc4046f7a5b859b06f28c5ca17d6471d1c0c3fc71ac0ba715b"
+    },
+    {
+      "path": "app/app/routes/decks.tsx",
+      "bytes": 15488,
+      "sha256": "c26da7dc9aaf6e21503aa4f339d07adbc4f2121f8f5fe026ceb44ac8342b3d80"
+    },
+    {
+      "path": "app/app/routes/extensions.$id.$slug.tsx",
+      "bytes": 78,
+      "sha256": "d7b9fe50ceb127152aeedbe4937b1afe0a17de5481b97f152b5ebbdf5172c95e"
+    },
+    {
+      "path": "app/app/routes/extensions.$id.tsx",
+      "bytes": 289,
+      "sha256": "4e9cc05139b398e472d46e51a72ccf3d393fe299fe51ee9e5afe251ab793847b"
+    },
+    {
+      "path": "app/app/routes/extensions._index.tsx",
+      "bytes": 273,
+      "sha256": "72f72143873164cb1337e29d7ac98045e32ac001909b0b66c54a0128fb23e185"
+    },
+    {
+      "path": "app/app/routes/extensions.tsx",
+      "bytes": 108,
+      "sha256": "5f460b82c776502ea251757058aa2bc8b530b109d6b9b3ec6258386b782f381f"
+    },
+    {
+      "path": "app/app/routes/home.tsx",
+      "bytes": 816,
+      "sha256": "4cac7d30ce52e9e1fbb669c3dfceb75a1ec56286b9c07ee4a6fd59b5ce7d8530"
+    },
+    {
+      "path": "app/app/routes/observability.tsx",
+      "bytes": 532,
+      "sha256": "0bf04d5e84b9825502a000375f55c080afe622c13988c19048b0849659cdcceb"
+    },
+    {
+      "path": "app/app/routes/settings.$.tsx",
+      "bytes": 47,
+      "sha256": "a3182c3d3f6ab3ce4b6286ba82ce18220fa3537eeba158ac7133aa5fdbb90922"
+    },
+    {
+      "path": "app/app/routes/settings.tsx",
+      "bytes": 806,
+      "sha256": "e600d1ef4e56153dd88d980ed9f92efcb11bf6a6c6d949ca2c2ee3b9191842ac"
+    },
+    {
+      "path": "app/app/routes/team.tsx",
+      "bytes": 263,
+      "sha256": "4d81d8dc90c094cc18d30fb8ba6e7f6d0ee8bd175f9e16e5d268fc8e5b96e31d"
+    },
+    {
+      "path": "app/app/styles/proofdeck.css",
+      "bytes": 6604,
+      "sha256": "9a76bb9fdb96365e294fe23f58f1114dc5ab6036e6334df49c786f02a6088443"
+    },
+    {
+      "path": "app/app/vite-env.d.ts",
+      "bytes": 167,
+      "sha256": "0a7047d20e6916e61bd85c7a25497c82ee248f573b11cde29ff5aed041a9860a"
+    },
+    {
+      "path": "app/changelog/2026-08-27-chat-includes-provider-runtimes-after-deployment.md",
+      "bytes": 116,
+      "sha256": "07473b0ad4a73c668572c7686287d81e41926745361e28261b6e64ce7f8c0005"
+    },
+    {
+      "path": "app/changelog/2026-09-27-chat-missing-provider-retry.md",
+      "bytes": 112,
+      "sha256": "9190a24225869d246574f898900b05e6902b10250905e9fb23cfd66f0b49867f"
+    },
+    {
+      "path": "app/changelog/2026-09-30-compact-composer-context-menus.md",
+      "bytes": 172,
+      "sha256": "71e9e5ac423db084cba85777b0be75c2f979f5541bbf11cfc660b3ff6d8ae92d"
+    },
+    {
+      "path": "app/changelog/2026-10-10-home-handoff-recovery-capacity.md",
+      "bytes": 116,
+      "sha256": "6a154b9731918770c789498c8e4fc981ca0624dbe0478b5164f1bb8cb35b6bec"
+    },
+    {
+      "path": "app/components.json",
+      "bytes": 397,
+      "sha256": "7499e8137e73e445a59772e8714ba4bc162057cf64aa140a2cf62276fd9ab840"
+    },
+    {
+      "path": "app/learnings.defaults.md",
+      "bytes": 306,
+      "sha256": "5dc1b2a8c431cc0215db437bf429b30a353d2971c0db726bcf827a6fc97999c8"
+    },
+    {
+      "path": "app/netlify.toml",
+      "bytes": 782,
+      "sha256": "a0ca61cf4fcfcc6065a8515242df0cb37327525256a7037c7835bfd6594a4682"
+    },
+    {
+      "path": "app/package.json",
+      "bytes": 3960,
+      "sha256": "a4eb2b32ed5088199283085a5abb0e975b48ade78f8485c54eacf83584fec98f"
+    },
+    {
+      "path": "app/pnpm-lock.yaml",
+      "bytes": 401857,
+      "sha256": "6761698eabfde4bf4ddce365bfabe1d62caf69f073b9aa2f9208aaae889e8d2d"
+    },
+    {
+      "path": "app/pnpm-workspace.yaml",
+      "bytes": 2273,
+      "sha256": "fb0b6579f079c885e48592af083dc3e98bb791ba0b1c0a682b0fc8946d7577d9"
+    },
+    {
+      "path": "app/public/agent-native-icon-dark.svg",
+      "bytes": 540,
+      "sha256": "217ab697c3709bf1f3861b1bee9be8c0b60c05b2aae4265cc702162d9531d2cd"
+    },
+    {
+      "path": "app/public/agent-native-icon-light.svg",
+      "bytes": 546,
+      "sha256": "b4d9de53534792cde7c2bf55ebf4186476834fc33ff08e70e2254c27a72e5f17"
+    },
+    {
+      "path": "app/public/agent-native-logo-dark.svg",
+      "bytes": 2721,
+      "sha256": "15b3575fd5e50a6b347e265ed32554ec0e2ddb2867f59f82aa247dd8d884e4d9"
+    },
+    {
+      "path": "app/public/agent-native-logo-light.svg",
+      "bytes": 2721,
+      "sha256": "14e7ae79310eac8d549e361cbcc737213d457b5fa3a15526b4c8a36029bb1de4"
+    },
+    {
+      "path": "app/public/favicon.svg",
+      "bytes": 105415,
+      "sha256": "8f9fb2f0c21c07f8f64a8976847cd21ad90689aed833e25865119b0630f21ed9"
+    },
+    {
+      "path": "app/public/fonts/DejaVuSans.ttf",
+      "bytes": 759720,
+      "sha256": "57f73e11f51999432bf7ab22ce55b6f945d5eca1bf824404cfa9ec2e3718c84e"
+    },
+    {
+      "path": "app/public/fonts/LICENSE.txt",
+      "bytes": 3857,
+      "sha256": "e81d9dced49fea2a7d576cbea283873de58563c5d488f954deb282843c3ea79c"
+    },
+    {
+      "path": "app/public/icon-180.svg",
+      "bytes": 105413,
+      "sha256": "b1da88dd2fc996b077b83f83e1a7f09c2f5ad6e027de8b2ef821ca63edaf9ee9"
+    },
+    {
+      "path": "app/public/icon-192.svg",
+      "bytes": 105413,
+      "sha256": "090dd35a9a0367838edf251a1692c3bc7b704a03eb5e4f1aa7e43e823a3486a0"
+    },
+    {
+      "path": "app/public/icon-512.svg",
+      "bytes": 105413,
+      "sha256": "61c0eae8e580e64b0a1fabb4e44d553d51c1af029b09e41e3a48bb32f794eb16"
+    },
+    {
+      "path": "app/public/manifest.json",
+      "bytes": 385,
+      "sha256": "371732475a394a2b49d3139cbea1297ec3d45afa0b32535f1a0089c017157c17"
+    },
+    {
+      "path": "app/react-router.config.ts",
+      "bytes": 197,
+      "sha256": "8e701177f3b39ee28d3de57667082ed8910ffc92316b03ba5f4db3ca45ce601c"
+    },
+    {
+      "path": "app/scripts/migrate-production.ts",
+      "bytes": 481,
+      "sha256": "e5300a134b04f0575532d9945d3f4822a9f5b2b0240145bbdb05d1641939dfc2"
+    },
+    {
+      "path": "app/server/agent/proofdeck-runtime.ts",
+      "bytes": 5755,
+      "sha256": "98589a38abf29fafce647eb8bd2cc3f8ea6fc405a5e523cc16a74fce31f0ff16"
+    },
+    {
+      "path": "app/server/db/index.ts",
+      "bytes": 150,
+      "sha256": "ab2e30fb33e62bc161ab6762d9b03a39ffb9c7bae10f3c9937acbf108a3d3560"
+    },
+    {
+      "path": "app/server/db/schema.ts",
+      "bytes": 1068,
+      "sha256": "a4aa58e01442b602d13171c908ff35104192441b771b10c73d8c2d4d2f4103bc"
+    },
+    {
+      "path": "app/server/lib/decks.ts",
+      "bytes": 1916,
+      "sha256": "f9c6335f3015002e24b91e08292c82c8558013df3fa98e7e5485eddd2208e936"
+    },
+    {
+      "path": "app/server/lib/layout.ts",
+      "bytes": 2934,
+      "sha256": "eb74e59ad917a5fb1f25286bd14dbca24136645badfd6ab9e632ce52cdc2aa9d"
+    },
+    {
+      "path": "app/server/middleware/auth.ts",
+      "bytes": 187,
+      "sha256": "c910197bd1720a7d7961d4289675b20e4656ea5074624a950db869c380f847b2"
+    },
+    {
+      "path": "app/server/middleware/proofdeck-local-title.ts",
+      "bytes": 863,
+      "sha256": "18b30daad5ca56590b988271c7ede5de0ab36af1aaadd8d107b58ccfc3c55b2f"
+    },
+    {
+      "path": "app/server/plugins/agent-chat.ts",
+      "bytes": 1323,
+      "sha256": "3bf3e6f4c72e1e2b330a6a16a9ad534dc58ba60c781cca075d586a6c5c64e6a4"
+    },
+    {
+      "path": "app/server/plugins/agent-native-email-branding.ts",
+      "bytes": 568,
+      "sha256": "7b47eec1b8daf3b876d0e08c57c84c2a77b934b3ab84bbf4a057edfb69af84ca"
+    },
+    {
+      "path": "app/server/plugins/auth.ts",
+      "bytes": 199,
+      "sha256": "8c63f471eea9b81b3242d7a3792bb40234cdde368423a1fe248f490fb14cf687"
+    },
+    {
+      "path": "app/server/plugins/db.ts",
+      "bytes": 923,
+      "sha256": "85a8711dcb773fb4a507c2e746e3959e8777848d00cd2b5cafebd11ff7a4a23f"
+    },
+    {
+      "path": "app/server/plugins/otel.ts",
+      "bytes": 194,
+      "sha256": "afbc08eba543c2a84f62416f8ec6ba4ef60e4b71c05a04517f16ff06b5e6ccb5"
+    },
+    {
+      "path": "app/server/routes/[...page].get.ts",
+      "bytes": 168,
+      "sha256": "0954ff30d0f24f4f8d28e7d06bce378597eae6423ee09a76d7720733456b1382"
+    },
+    {
+      "path": "app/server/routes/api/proof.get.ts",
+      "bytes": 1329,
+      "sha256": "247f685bf67134171f7eb1e46da14f353f11c7408543ba50e4593d8f9e1207ac"
+    },
+    {
+      "path": "app/server/routes/api/proofdeck-agent.post.ts",
+      "bytes": 2261,
+      "sha256": "9de88d35c08ee96f77893aa0fcf151f6b734dcecd28b3c507148198417eded5f"
+    },
+    {
+      "path": "app/shared/card-renderer.ts",
+      "bytes": 2840,
+      "sha256": "32c86bda8dbb9eba9b3bd6985cd32dd9739101e56ddca9b8d41012197b4ceba8"
+    },
+    {
+      "path": "app/shared/deck.ts",
+      "bytes": 3991,
+      "sha256": "bbc55c7b6aff27d11c54d3165b6dbf2d7fd286b45f2d3aaa9e7ad9023ac265f9"
+    },
+    {
+      "path": "app/shared/sample.json",
+      "bytes": 1821,
+      "sha256": "65c968db810eb590f85e251d51756ab8804f7e805029f03c8d9deb4a2e7ac783"
+    },
+    {
+      "path": "app/ssr-entry.ts",
+      "bytes": 237,
+      "sha256": "2cb8326808781a55567713f0c2909b1550fdf9e2f3bfb81efe5e9522c2b7827e"
+    },
+    {
+      "path": "app/tsconfig.json",
+      "bytes": 533,
+      "sha256": "0c86e722934853b7fd06f6d727e8583d6211ea6757b64ceff8fdd4c910cae2ee"
+    },
+    {
+      "path": "app/vite.config.ts",
+      "bytes": 716,
+      "sha256": "28ffb62c6c4ffa8169e8d75b817cd31ab86f3fea8a68a50f9980307a11c2f14c"
+    },
+    {
+      "path": "app/vitest.config.ts",
+      "bytes": 383,
+      "sha256": "b703bf3962898c89480f5907b6d7a5d4996bc5fe49eaa9a12667128519fabc30"
+    },
+    {
+      "path": "artifacts/app-contract-proof.pdf",
+      "bytes": 40931,
+      "sha256": "61abd0f986ee7dccc8b1ce317e685af0f4cc14d3e4dfd95ad5256ff719c03ab5"
+    },
+    {
+      "path": "artifacts/app-deck.png",
+      "bytes": 140872,
+      "sha256": "88a7861b466145ff13715604ba00a7cc0251469103b55e50892711cb2878cc5d"
+    },
+    {
+      "path": "artifacts/app-verification.json",
+      "bytes": 2662,
+      "sha256": "91a980c4c8a29193a3a10b2647af8b34c4bd80c1b9b4d61126a519cda0cfb036"
+    },
+    {
+      "path": "artifacts/app-verification.log",
+      "bytes": 2663,
+      "sha256": "0cc6962b2e2a710038a9ad10bf4fb764823df5a9ebed4d87bd6b381ffd3fc6af"
+    },
+    {
+      "path": "artifacts/cancellation-verification.json",
+      "bytes": 454,
+      "sha256": "201324922b8819773bd884c51d9a7540848648b22fcae3c217ac161c45c9c060"
+    },
+    {
+      "path": "artifacts/cancellation.log",
+      "bytes": 455,
+      "sha256": "c30de7ab2caf6427b6fd67ad9b2128f4d4458c8646287de64e6afb699467cf6e"
+    },
+    {
+      "path": "artifacts/chromium-raw-proof.pdf",
+      "bytes": 92412,
+      "sha256": "a4f3d8a86630ae629221ed0c60456507d27bcff64a942b91fa1626d5ad6702e2"
+    },
+    {
+      "path": "artifacts/demo-agent-visible.txt",
+      "bytes": 2734,
+      "sha256": "a0819f79c9a94ab0606729e4e2c6966d15243c3b1d7fa6d9a8c887bddf7bcee1"
+    },
+    {
+      "path": "artifacts/demo-approved-proof.pdf",
+      "bytes": 46019,
+      "sha256": "87cc24e2fe32677c4c52bef0657bcf242f3375f6476124d6202a90c19a701717"
+    },
+    {
+      "path": "artifacts/demo-approved.png",
+      "bytes": 184615,
+      "sha256": "2bde01b5ac4b40fc8b4059ef55eadbef9a786a2e9c3c7266201344c424e10843"
+    },
+    {
+      "path": "artifacts/demo-before.png",
+      "bytes": 171915,
+      "sha256": "1eb3764e10a12b107fae02c7215a274fbdf96094661727de391033e3c1307f82"
+    },
+    {
+      "path": "artifacts/demo-captions.srt",
+      "bytes": 566,
+      "sha256": "95aa184518169667b03debff9412386feadb8418e7f21eac622c72bab992be67"
+    },
+    {
+      "path": "artifacts/demo-history.png",
+      "bytes": 188521,
+      "sha256": "bd26826e344feca37d284de78794d079992508cf4a099097bef3bf320f1a4a10"
+    },
+    {
+      "path": "artifacts/demo-input.csv",
+      "bytes": 513,
+      "sha256": "1a9fccdfe253af0f3294148ee8f33eaad4ea3e46e1f193fd52a111ece76ad525"
+    },
+    {
+      "path": "artifacts/demo-layout-proposal.png",
+      "bytes": 219833,
+      "sha256": "eaedbd5a2453221ad28e5398ddd02cc65512063f0d07b08e571e0b5d77d7deae"
+    },
+    {
+      "path": "artifacts/demo-proposal.png",
+      "bytes": 200573,
+      "sha256": "db3e46413b736af146c5110507456b79147b38a9863179599766954a2de001f0"
+    },
+    {
+      "path": "artifacts/demo-verification.json",
+      "bytes": 737,
+      "sha256": "00673e533c04628ce25f9b052bbe2cdce3fd3769a48dd19906ca724732f69ee8"
+    },
+    {
+      "path": "artifacts/doctor.log",
+      "bytes": 507,
+      "sha256": "b4f90104e6cae324b3a9c8da5a8b60d7f85fcc3e8dc1e81d015ce8252681f9ac"
+    },
+    {
+      "path": "artifacts/draft.png",
+      "bytes": 187434,
+      "sha256": "67dd8ff14c95e55d324766f2e1b78303a16a13a4e82e7013246acafc0a09232c"
+    },
+    {
+      "path": "artifacts/edited.png",
+      "bytes": 166217,
+      "sha256": "3ae53312f610414c87bd2016012129b3e7fe3f55d5e5fee50fddadbc16098f16"
+    },
+    {
+      "path": "artifacts/german-card-proof.pdf",
+      "bytes": 92320,
+      "sha256": "2b21b5784fa87c3326ffe7a40dc37ca85ee0c0a7efdd20ac861ad07d93688c89"
+    },
+    {
+      "path": "artifacts/live-agent-stream.txt",
+      "bytes": 6121,
+      "sha256": "377bbba114e947ab9833d9b6c250cab02b9b429a213af8f125031ae12186af69"
+    },
+    {
+      "path": "artifacts/manifest.json",
+      "bytes": 1675,
+      "sha256": "1f33130cae94626c4d2ebc6ae129142da7c91a616b5481ee7abfd747cad8d876"
+    },
+    {
+      "path": "artifacts/mobile.png",
+      "bytes": 49638,
+      "sha256": "b0e69d9ee86c359c80fb1c34b2dcd57be64cffeb072174ad555ee6ae51a86864"
+    },
+    {
+      "path": "artifacts/preview.html",
+      "bytes": 1030424,
+      "sha256": "42cb0a11762dded1b38eaa697b713086c4187945d85e4f998bf80481fd98ed00"
+    },
+    {
+      "path": "artifacts/probe.json",
+      "bytes": 3743,
+      "sha256": "fe0acfedacafae9a25e68040f7d99f8e924671d46137f1d57aed49fba24d90e2"
+    },
+    {
+      "path": "artifacts/probe.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "artifacts/probe.stdout.log",
+      "bytes": 1320,
+      "sha256": "149d936f4e9cf001973b07d8c67a794cc9ef9c10705f5bead16ea14939784cfb"
+    },
+    {
+      "path": "artifacts/proofdeck-demo-full.mp4",
+      "bytes": 1336732,
+      "sha256": "5ce3ab8ab1277dac6f4dd003379e983bb72fb3d424d0a9968e90a1cb9868ba47"
+    },
+    {
+      "path": "artifacts/proofdeck-demo.mp4",
+      "bytes": 1010464,
+      "sha256": "99bca3f142b9d39963e85ee2bb91432a0ea57a510e5c7905457d6a59db42c6f7"
+    },
+    {
+      "path": "artifacts/restart-verification.json",
+      "bytes": 302,
+      "sha256": "9d85ee8b06719723983b641e8b79e8f411c9b05201f793bca8deebdd0164877a"
+    },
+    {
+      "path": "artifacts/setup-verification.log",
+      "bytes": 1102,
+      "sha256": "cacad14ba22ffc633524657b6a237195143ffd7d2a7f21e2527e680bbd7dfa17"
+    },
+    {
+      "path": "artifacts/start-verification.json",
+      "bytes": 147,
+      "sha256": "0821ad2888e300ac08cc57f87ec48bd4220e6a94eaf053b71e6ff38b8961b051"
+    },
+    {
+      "path": "artifacts/start-verification.log",
+      "bytes": 977,
+      "sha256": "070efe8532cc105a90ec524941727137cb88d6b1b33189e64e86344aca34a56d"
+    },
+    {
+      "path": "artifacts/typecheck.log",
+      "bytes": 73,
+      "sha256": "e20f9a965d5443075be29fdf17d7e971eda78defdd0d62506acf9859bdc4641b"
+    },
+    {
+      "path": "artifacts/ui-verification.json",
+      "bytes": 417,
+      "sha256": "529b5e6b107b2e3ff099a25697f247d3aced24636b28a3e46ed863d5b6e064ad"
+    },
+    {
+      "path": "artifacts/ui-verification.log",
+      "bytes": 418,
+      "sha256": "4fb86b52d50e0ba671e9ba54a55b85beab5550e64c17028f1b4b8f758e07a2ad"
+    },
+    {
+      "path": "artifacts/video-edit.json",
+      "bytes": 566,
+      "sha256": "348ae1763d484e59efae4be0d937cc3b66a4339f64f90265487811f013ff6e56"
+    },
+    {
+      "path": "build.py",
+      "bytes": 742,
+      "sha256": "2e64bc0ac69483daa22a77fea603a971dd646164a67365bbcf073d8ec444d60f"
+    },
+    {
+      "path": "data/cards.json",
+      "bytes": 1821,
+      "sha256": "65c968db810eb590f85e251d51756ab8804f7e805029f03c8d9deb4a2e7ac783"
+    },
+    {
+      "path": "prepare_video.py",
+      "bytes": 2678,
+      "sha256": "ad994eedd78221273658e9ff9044ca47922bc1f17ef65ed8bfcd021460644e0d"
+    },
+    {
+      "path": "probe.py",
+      "bytes": 6459,
+      "sha256": "d2a7acd74dfeb47f6aa82417b1ed2f6653632f1e7e7654e81691d222a7cc7ce3"
+    },
+    {
+      "path": "record_demo.py",
+      "bytes": 6202,
+      "sha256": "1c32cea99dacaaf988d17ede6eba90d77a5ac530058c4ed8d5033c3962e9d2d0"
+    },
+    {
+      "path": "requirements.lock",
+      "bytes": 110,
+      "sha256": "340e560571dfb133cc0444bd66ec38c661c0e2f49376dd22f8d8989c71e3c151"
+    },
+    {
+      "path": "research/sources.json",
+      "bytes": 1768,
+      "sha256": "6ffdb74b31324b8cf7cf907b7d2ea56accb32db5b57e93846623920ab04abec8"
+    },
+    {
+      "path": "setup.sh",
+      "bytes": 486,
+      "sha256": "154487bf1896cd4573b3d7d57fc3ea29b4315f5e175b50d59b8b62cc6bb1298e"
+    },
+    {
+      "path": "start.sh",
+      "bytes": 366,
+      "sha256": "04a1f7292bd47084d388f3ae46689b6b524c618f802e93050e6bef4c23b33c90"
+    },
+    {
+      "path": "third_party/DejaVu-font-license.txt",
+      "bytes": 3859,
+      "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9"
+    },
+    {
+      "path": "third_party/agent-native-MIT.txt",
+      "bytes": 1073,
+      "sha256": "dc40b458769a718adbc4456eeb52060385acd5cac3f48a6e98002fafbf84424c"
+    },
+    {
+      "path": "ui.html",
+      "bytes": 11761,
+      "sha256": "f9d641ed230ecf425f542055ea64b40e2e11a262c56da7e28ab5249077c7c5f2"
+    },
+    {
+      "path": "verify_app.py",
+      "bytes": 6635,
+      "sha256": "964baf2005bebb2ee7053992ca58ee8a8673c0b9941c49804a651096094ad2d3"
+    },
+    {
+      "path": "verify_cancellation.py",
+      "bytes": 2543,
+      "sha256": "51b2e452be788112ccaa031f2bce14ea1dbb98c3a564c0f1232b2304350b2c68"
+    },
+    {
+      "path": "verify_ui.py",
+      "bytes": 2855,
+      "sha256": "52799944092a143c7bf6fb0e8b09794a73adc947d5d996aa2e85ff025bb87cd5"
+    }
+  ]
+}

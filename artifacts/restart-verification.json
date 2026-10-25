@@ -1,0 +1,7 @@
+{
+  "pass": true,
+  "time_utc": "2026-10-25T22:49:03.261688+00:00",
+  "evidence": "Stopped owned Node/Vite process and started a new one against on-disk PGlite. Read revision and wording through authenticated action HTTP surface.",
+  "deck_id": "ea317e21-cdc3-47d3-a289-f94315d8b4d5",
+  "revision": 6
+}

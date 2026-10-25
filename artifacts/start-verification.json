@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "command": "./start.sh",
+  "url": "http://127.0.0.1:8081/decks",
+  "persisted_demo_revision": 4,
+  "approved_revision": 4
+}

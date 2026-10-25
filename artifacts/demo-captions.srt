@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:04,200
+ProofDeck: synthetic errors, real live AI.
+
+2
+00:00:04,200 --> 00:00:08,000
+The agent reads the source and the actual layout. Waiting shortened.
+
+3
+00:00:08,000 --> 00:00:14,500
+Compare the proposed wording. Keep the numbers, symbols and 10 pt type.
+
+4
+00:00:14,500 --> 00:00:22,000
+Accept wording after review. Mechanical checks do not prove meaning.
+
+5
+00:00:22,000 --> 00:00:25,000
+Approve an exact revision, then download its RGB PDF proof.
+
+6
+00:00:25,000 --> 00:00:28,600
+Saved wording and revision history remain after reload.

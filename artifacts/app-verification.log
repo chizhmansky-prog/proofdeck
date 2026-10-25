@@ -1,0 +1,110 @@
+{
+  "time_utc": "2026-10-25T22:45:30.102022+00:00",
+  "checks": [
+    {
+      "name": "Duplicate IDs rejected atomically",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Unclosed quote rejected atomically",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Duplicate header rejected atomically",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "BOM, CRLF and quoted commas imported",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Actual Chromium layout clear at fixed 10 pt",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Pending proposal blocks approval",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Stale proposal cannot overwrite manual copy",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Stale revision rejected without overwrite",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Approval bound to exact persisted revision",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Authenticated PDF download",
+      "pass": true,
+      "detail": 200
+    },
+    {
+      "name": "Real PDF pages have exact nominal 63 × 88 mm boxes",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "PDF contains accepted content and stable IDs",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Any edit revokes approval",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Old approved revision cannot be exported after edit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Bad printed number blocks approval on server",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Known semantic counterexample remains explicitly unapproved",
+      "pass": true,
+      "detail": "may → must passes mechanical checks; human meaning review required"
+    },
+    {
+      "name": "Original source text immutable across writes",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Committed changes have durable revision history",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Unknown/malicious ID does not broaden authorized read",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Unauthenticated caller cannot read deck data",
+      "pass": true,
+      "detail": 401
+    }
+  ],
+  "total": 20,
+  "deck_id": "ea317e21-cdc3-47d3-a289-f94315d8b4d5",
+  "scope": "Developer-authored real HTTP/Chromium/PDF verification, not independent QA or human study",
+  "live_model": "separately captured in live-agent-stream.txt",
+  "restart": "NOT_RUN"
+}

@@ -7,3 +7,15 @@ __pycache__/
 research/*.source
 artifacts/install.log
 artifacts/browser-install.log
+
+artifacts/video-raw/
+artifacts/dev-server.log
+artifacts/video-encode.log
+artifacts/video-edit.log
+artifacts/video-install.log
+artifacts/video-preparation.log
+artifacts/pdf-dependency.log
+artifacts/demo-recording.log
+artifacts/proofdeck-demo.webm
+artifacts/proofdeck-source.tar.gz
+artifacts/proofdeck-source.zip

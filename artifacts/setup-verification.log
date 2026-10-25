@@ -1,0 +1,15 @@
+
+up to date in 565ms
+Lockfile is up to date, resolution step is skipped
+Already up to date
+
+╭ Warning ─────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│   Ignored build scripts: @vgpu/adapter-node@0.5.0, webgpu@0.4.0.             │
+│   Run "pnpm approve-builds" to pick which dependencies should be allowed     │
+│   to run scripts.                                                            │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+Done in 2.5s using pnpm v10.29.1
+
+ProofDeck installed. Run codex login if needed, then ./start.sh from the project root.

@@ -1,0 +1,13 @@
+{
+  "time_utc": "2026-10-25T22:55:25.906089+00:00",
+  "status": "PASS",
+  "path": "UI CSV import → live native agent → proposal preview/review → revision approval → real PDF download → reload/history",
+  "url": "http://127.0.0.1:8081/decks?id=0fa65161-ed74-4a80-a426-868001d6408f&card=H02",
+  "model_wait_seconds": 25.292413,
+  "page_errors": [],
+  "http_failures": [],
+  "pdf_pages": 2,
+  "recording": "proofdeck-demo.webm",
+  "disclosure": "Developer-created synthetic cards, automated editor interaction; live model output is not mocked. Not a human linguistic review or independent QA.",
+  "agent_ui_terminal_result": "Completed assistant reply and persisted proposals observed; raw SSE body not captured by this UI test"
+}
