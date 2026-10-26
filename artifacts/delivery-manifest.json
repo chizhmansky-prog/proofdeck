@@ -1,6 +1,6 @@
 {
-  "created_at_utc": "2026-10-25T23:08:53.264014+00:00",
-  "scope": "Source and review artifacts; runtime credentials, databases, caches and dependencies excluded",
+  "created_at_utc": "2026-10-26T00:20:43.156697+00:00",
+  "scope": "Source and review artifacts; runtime credentials, databases, caches and dependencies excluded. Manifest excludes itself.",
   "files": [
     {
       "path": ".gitignore",
@@ -9,8 +9,8 @@
     },
     {
       "path": "DEMO.md",
-      "bytes": 2334,
-      "sha256": "d6e8d543ec6c385116d433c369ea579e8de41fec1605ce70eae38a96e200d719"
+      "bytes": 2999,
+      "sha256": "ad62164813c8e091be0c3419706ab82f45e98dfa9315ae01836ba01731b6a22e"
     },
     {
       "path": "EVALUATION.md",
@@ -29,13 +29,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 4288,
-      "sha256": "1eb27387cf078f490a0d88b1bf362e352cbdd1ce9cac2ff4203b1e6a8fd8fe83"
+      "bytes": 4813,
+      "sha256": "f89121f7423a6b04b1c8b7e1c183df0c6afdcde966107cfa44fbda7281a223fa"
     },
     {
       "path": "REPORT.md",
-      "bytes": 11594,
-      "sha256": "da06ee8ad777990b870b4e9bf21b537eda5b04d40fde0936904adb9000a1f90c"
+      "bytes": 13028,
+      "sha256": "f1149b6984d4c82891482b68b7f466c2378e2500373a9b82e37507aebc46ad98"
     },
     {
       "path": "STRATEGY.md",
@@ -44,13 +44,18 @@
     },
     {
       "path": "SUBMISSION.md",
-      "bytes": 3457,
-      "sha256": "84614c8f2fbc5e485543c1ae9e41d702d11dd12d3c55398402c36a45cd6cd8ec"
+      "bytes": 3651,
+      "sha256": "e0e6f986ce3056feb6a1ad474b9038a5088a35355f4e159fc078df2b364ebad4"
     },
     {
       "path": "WORKPLAN.md",
       "bytes": 2030,
       "sha256": "b3c4250d5b67be9e6760b96ffbf7dc1ab098454cbb6634820d5f1cb1c504e664"
+    },
+    {
+      "path": "add_voiceover.py",
+      "bytes": 4241,
+      "sha256": "914a1ecea7eafb5113f7bacab4c8d25cd1b02cccbf7368daf6f0f719a1401735"
     },
     {
       "path": "app/.agents/skills/actions/SKILL.md",
@@ -188,6 +193,13 @@
       "sha256": "d9dfd4406f7ea2a818c2ee42d8a2531017eb53b027865d9d0dee9db36c3135f8"
     },
     {
+      "path": "app/.claude/skills",
+      "bytes": 17,
+      "sha256": "3c74c93317f015d16370349a76529b6f8332c808bdd589e7640eeba6a1b1b874",
+      "kind": "symlink",
+      "target": "../.agents/skills"
+    },
+    {
       "path": "app/.env.example",
       "bytes": 295,
       "sha256": "b98e895adf4aa9d3076f67d9672c0960d67d659fbd3744b4fbde544c7800140f"
@@ -224,8 +236,10 @@
     },
     {
       "path": "app/CLAUDE.md",
-      "bytes": 5192,
-      "sha256": "16432ee292568007ac0bf48c6902c1ba7a5b5e44c4a9d0a3fc828c436eb07b67"
+      "bytes": 9,
+      "sha256": "a54ff182c7e8acf56acfd6e4b9c3ff41e2c41a31c9b211b2deb9df75d9a478f9",
+      "kind": "symlink",
+      "target": "AGENTS.md"
     },
     {
       "path": "app/DESIGN.md",
@@ -943,6 +957,11 @@
       "sha256": "eaedbd5a2453221ad28e5398ddd02cc65512063f0d07b08e571e0b5d77d7deae"
     },
     {
+      "path": "artifacts/demo-narration.txt",
+      "bytes": 342,
+      "sha256": "8611c4609567aea18f38e45f0d81f70b525ae0f94c737ceb069bf60a91fe4b0b"
+    },
+    {
       "path": "artifacts/demo-proposal.png",
       "bytes": 200573,
       "sha256": "db3e46413b736af146c5110507456b79147b38a9863179599766954a2de001f0"
@@ -988,6 +1007,11 @@
       "sha256": "b0e69d9ee86c359c80fb1c34b2dcd57be64cffeb072174ad555ee6ae51a86864"
     },
     {
+      "path": "artifacts/narration-provenance.json",
+      "bytes": 7646,
+      "sha256": "95aa76198fd7ea5323015bd9d5801762c6f41e2f52759a2ab083b86112178ff2"
+    },
+    {
       "path": "artifacts/preview.html",
       "bytes": 1030424,
       "sha256": "42cb0a11762dded1b38eaa697b713086c4187945d85e4f998bf80481fd98ed00"
@@ -1013,9 +1037,19 @@
       "sha256": "5ce3ab8ab1277dac6f4dd003379e983bb72fb3d424d0a9968e90a1cb9868ba47"
     },
     {
+      "path": "artifacts/proofdeck-demo-voiced.mp4",
+      "bytes": 1530035,
+      "sha256": "e1dd30b7467df9351520cc2aa00d1268caf15f5dbc6c0a5a411a7e4e5a143c54"
+    },
+    {
       "path": "artifacts/proofdeck-demo.mp4",
       "bytes": 1010464,
       "sha256": "99bca3f142b9d39963e85ee2bb91432a0ea57a510e5c7905457d6a59db42c6f7"
+    },
+    {
+      "path": "artifacts/proofdeck-narration.mp3",
+      "bytes": 402109,
+      "sha256": "2c29d0d06559efac54261b4a2f34f91c3c36d8774f2773f4c8585471087a7281"
     },
     {
       "path": "artifacts/restart-verification.json",
@@ -1056,6 +1090,11 @@
       "path": "artifacts/video-edit.json",
       "bytes": 566,
       "sha256": "348ae1763d484e59efae4be0d937cc3b66a4339f64f90265487811f013ff6e56"
+    },
+    {
+      "path": "artifacts/voiceover-verification.json",
+      "bytes": 1420,
+      "sha256": "f8cd4e16dd6f2d9470efb9d42c416c7dc8e9599caf790509f8e3cfc5ca93b4f4"
     },
     {
       "path": "build.py",

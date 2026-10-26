@@ -1,0 +1,48 @@
+{
+  "source": "proofdeck-demo.mp4",
+  "audio": "proofdeck-narration.mp3",
+  "output": "proofdeck-demo-voiced.mp4",
+  "duration_seconds": 27.6,
+  "audio_offset_seconds": 0.6,
+  "narration_duration_seconds": 24.0,
+  "complete_narration_fits": true,
+  "narration_speed_changed": false,
+  "original_video": {
+    "frames": 690,
+    "decoded_frame_hashes_sha256": "357c7f4ad02ce314564546017845c311c62868941cee04ea914d26179d59b0ef"
+  },
+  "finished_video": {
+    "frames": 690,
+    "decoded_frame_hashes_sha256": "357c7f4ad02ce314564546017845c311c62868941cee04ea914d26179d59b0ef"
+  },
+  "video_frames_identical": true,
+  "audio_codec": "AAC",
+  "audio_sample_rate": 48000,
+  "normalization_target_lufs": -16,
+  "normalization_peak_target_dbtp": -1.5,
+  "volume_db": {
+    "mean_volume": "-16.8",
+    "max_volume": "-1.5"
+  },
+  "input_loudness": {
+    "input_i": "-21.22",
+    "input_tp": "-2.62",
+    "input_lra": "3.20",
+    "input_thresh": "-31.77",
+    "output_i": "-16.33",
+    "output_tp": "-1.50",
+    "output_lra": "2.10",
+    "output_thresh": "-26.80",
+    "normalization_type": "dynamic",
+    "target_offset": "0.33"
+  },
+  "mp4_bytes": 1530035,
+  "mp4_sha256": "e1dd30b7467df9351520cc2aa00d1268caf15f5dbc6c0a5a411a7e4e5a143c54",
+  "checks": {
+    "full_decode": "PASS",
+    "video_frames_unchanged": "PASS",
+    "audio_present": "PASS",
+    "no_sample_clipping": "PASS",
+    "complete_narration_fits": "PASS"
+  }
+}

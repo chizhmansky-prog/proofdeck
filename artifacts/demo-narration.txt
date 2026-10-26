@@ -1,0 +1,1 @@
+A good translation can still break a game card. ProofDeck checks wording in the actual layout. The agent proposes shorter text; the editor compares and accepts it. Mechanical checks catch layout issues. A person reviews meaning. Then the approved revision becomes a PDF. Change the words, and approval expires. A new language. The same game.

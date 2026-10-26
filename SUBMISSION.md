@@ -44,7 +44,7 @@ user study. We do not claim that this workflow is impossible with other tools.
 - Official Agent-Native Chat template and published open-source dependencies.
 - ProofDeck domain implementation and synthetic example cards created during
   the allowed development period. Initial browser/PDF prototype is included
-  and disclosed in this repository's history.
+  and disclosed in EXPERIMENT.md.
 - Original geometric SVG card illustration; DejaVu Sans with its license notice.
 - Example errors are deliberately seeded and disclosed. Prepared wording in
   the earlier offline prototype is separate from live model-generated proposals.
@@ -53,6 +53,8 @@ user study. We do not claim that this workflow is impossible with other tools.
 - Export is an RGB editorial proof, not certified PDF-X/CMYK prepress output.
 - Human usability, independent QA and fair competitor comparisons remain
   unverified unless the final verification report records actual results.
+- The narrated local demo adds ElevenLabs Bella / eleven_v4 synthetic speech
+  to actual recorded product frames; the full silent recording is retained.
 
 ## Required submission fields — pending account input
 
@@ -60,7 +62,8 @@ Project: ProofDeck
 
 Public Clips recording URL: PENDING — must be created in the participant's account.
 
-Repository URL: PENDING — GitHub authentication/repository not connected here.
+Repository URL: PENDING — GitHub plugin authenticated; destination proofdeck
+repository was not available at the publication check.
 
 Live hosted URL: not deployed; optional under the event rules reviewed.
 

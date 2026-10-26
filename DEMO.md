@@ -36,5 +36,16 @@ proven time savings, or a prize result.
 Delivered local recordings: `artifacts/proofdeck-demo.mp4` is a 27.6-second
 captioned cut; `artifacts/proofdeck-demo-full.mp4` retains the full 65.6-second
 recording. Opening/loading and part of the live wait are cut, with disclosure.
-No model response is fabricated. Both are silent; an English narration script
-is provided above. They are preparation for the mandatory public Clips step.
+No model response is fabricated. Both original cuts are silent.
+
+`artifacts/proofdeck-demo-voiced.mp4` adds English ElevenLabs narration to the
+27.6-second cut. The exact script is in `artifacts/demo-narration.txt`; the
+chosen Bella / eleven_v4 take and an automatic Scribe transcript are recorded
+in `artifacts/narration-provenance.json`. Two takes were generated; the take
+with a verified matching transcript is used. Speech is not sped up. The mix
+starts 0.6 seconds into the video, is normalized to a -16 LUFS target, and
+retains every original video frame. `artifacts/voiceover-verification.json`
+records actual frame hashes and decoded audio checks. Human listening review
+was not performed. Rebuild with `.venv/bin/python add_voiceover.py`.
+
+These local files are preparation for the mandatory public Clips step.

@@ -1,0 +1,360 @@
+{
+  "provider": "ElevenLabs",
+  "model_id": "eleven_v4",
+  "voice": {
+    "voice_id": "hpp4J3VqNfWAUOO0d1Us",
+    "name": "Bella - Professional, Bright, Warm"
+  },
+  "language": "en",
+  "script": "A good translation can still break a game card. ProofDeck checks wording in the actual layout. The agent proposes shorter text; the editor compares and accepts it. Mechanical checks catch layout issues. A person reviews meaning. Then the approved revision becomes a PDF. Change the words, and approval expires. A new language. The same game.",
+  "generation_id": "8eKidejqYXsUpEBUsaPK",
+  "flow_url": "https://elevenlabs.io/app/flows/PMqDYhO6xemJu8r1jt9m",
+  "takes_generated": 2,
+  "chosen_take": 2,
+  "narration_duration_seconds": 24,
+  "transcription": {
+    "model_id": "eleven_scribe_v1",
+    "generation_id": "bBlW4qPGUJDXHMmf6KJE",
+    "text": "A good translation can still break a game card. ProofDeck checks wording in the actual layout. The agent proposes shorter text; the editor compares and accepts it. Mechanical checks catch layout issues. A person reviews meaning. Then the approved revision becomes a PDF. Change the words, and approval expires. A new language. The same game.",
+    "words": [
+      {
+        "text": "A",
+        "type": "word",
+        "start": 0,
+        "end": 0.08
+      },
+      {
+        "text": "good",
+        "type": "word",
+        "start": 0.16,
+        "end": 0.32
+      },
+      {
+        "text": "translation",
+        "type": "word",
+        "start": 0.68,
+        "end": 1.04
+      },
+      {
+        "text": "can",
+        "type": "word",
+        "start": 1.12,
+        "end": 1.28
+      },
+      {
+        "text": "still",
+        "type": "word",
+        "start": 1.44,
+        "end": 1.68
+      },
+      {
+        "text": "break",
+        "type": "word",
+        "start": 1.76,
+        "end": 1.92
+      },
+      {
+        "text": "a",
+        "type": "word",
+        "start": 2,
+        "end": 2.04
+      },
+      {
+        "text": "game",
+        "type": "word",
+        "start": 2.08,
+        "end": 2.24
+      },
+      {
+        "text": "card.",
+        "type": "word",
+        "start": 2.32,
+        "end": 2.72
+      },
+      {
+        "text": "ProofDeck",
+        "type": "word",
+        "start": 3.2,
+        "end": 3.68
+      },
+      {
+        "text": "checks",
+        "type": "word",
+        "start": 3.76,
+        "end": 4
+      },
+      {
+        "text": "wording",
+        "type": "word",
+        "start": 4.08,
+        "end": 4.48
+      },
+      {
+        "text": "in",
+        "type": "word",
+        "start": 4.52,
+        "end": 4.56
+      },
+      {
+        "text": "the",
+        "type": "word",
+        "start": 4.64,
+        "end": 4.72
+      },
+      {
+        "text": "actual",
+        "type": "word",
+        "start": 4.8,
+        "end": 5.2
+      },
+      {
+        "text": "layout.",
+        "type": "word",
+        "start": 5.28,
+        "end": 5.76
+      },
+      {
+        "text": "The",
+        "type": "word",
+        "start": 6.24,
+        "end": 6.32
+      },
+      {
+        "text": "agent",
+        "type": "word",
+        "start": 6.4,
+        "end": 6.64
+      },
+      {
+        "text": "proposes",
+        "type": "word",
+        "start": 6.72,
+        "end": 7.28
+      },
+      {
+        "text": "shorter",
+        "type": "word",
+        "start": 7.4,
+        "end": 7.6
+      },
+      {
+        "text": "text;",
+        "type": "word",
+        "start": 7.68,
+        "end": 8.4
+      },
+      {
+        "text": "the",
+        "type": "word",
+        "start": 8.48,
+        "end": 8.56
+      },
+      {
+        "text": "editor",
+        "type": "word",
+        "start": 8.64,
+        "end": 8.88
+      },
+      {
+        "text": "compares",
+        "type": "word",
+        "start": 8.96,
+        "end": 9.6
+      },
+      {
+        "text": "and",
+        "type": "word",
+        "start": 9.64,
+        "end": 9.68
+      },
+      {
+        "text": "accepts",
+        "type": "word",
+        "start": 9.76,
+        "end": 10.16
+      },
+      {
+        "text": "it.",
+        "type": "word",
+        "start": 10.24,
+        "end": 10.4
+      },
+      {
+        "text": "Mechanical",
+        "type": "word",
+        "start": 10.8,
+        "end": 11.28
+      },
+      {
+        "text": "checks",
+        "type": "word",
+        "start": 11.36,
+        "end": 11.76
+      },
+      {
+        "text": "catch",
+        "type": "word",
+        "start": 11.92,
+        "end": 12.08
+      },
+      {
+        "text": "layout",
+        "type": "word",
+        "start": 12.16,
+        "end": 12.48
+      },
+      {
+        "text": "issues.",
+        "type": "word",
+        "start": 12.72,
+        "end": 13.04
+      },
+      {
+        "text": "A",
+        "type": "word",
+        "start": 13.36,
+        "end": 13.44
+      },
+      {
+        "text": "person",
+        "type": "word",
+        "start": 13.52,
+        "end": 13.92
+      },
+      {
+        "text": "reviews",
+        "type": "word",
+        "start": 14,
+        "end": 14.4
+      },
+      {
+        "text": "meaning.",
+        "type": "word",
+        "start": 14.48,
+        "end": 15.12
+      },
+      {
+        "text": "Then",
+        "type": "word",
+        "start": 15.36,
+        "end": 15.6
+      },
+      {
+        "text": "the",
+        "type": "word",
+        "start": 15.76,
+        "end": 15.84
+      },
+      {
+        "text": "approved",
+        "type": "word",
+        "start": 16.08,
+        "end": 16.32
+      },
+      {
+        "text": "revision",
+        "type": "word",
+        "start": 16.4,
+        "end": 16.8
+      },
+      {
+        "text": "becomes",
+        "type": "word",
+        "start": 16.92,
+        "end": 17.28
+      },
+      {
+        "text": "a",
+        "type": "word",
+        "start": 17.36,
+        "end": 17.4
+      },
+      {
+        "text": "PDF.",
+        "type": "word",
+        "start": 17.44,
+        "end": 18.16
+      },
+      {
+        "text": "Change",
+        "type": "word",
+        "start": 18.64,
+        "end": 18.88
+      },
+      {
+        "text": "the",
+        "type": "word",
+        "start": 18.96,
+        "end": 19
+      },
+      {
+        "text": "words,",
+        "type": "word",
+        "start": 19.04,
+        "end": 19.6
+      },
+      {
+        "text": "and",
+        "type": "word",
+        "start": 19.68,
+        "end": 19.76
+      },
+      {
+        "text": "approval",
+        "type": "word",
+        "start": 20,
+        "end": 20.24
+      },
+      {
+        "text": "expires.",
+        "type": "word",
+        "start": 20.32,
+        "end": 21.32
+      },
+      {
+        "text": "A",
+        "type": "word",
+        "start": 21.6,
+        "end": 21.68
+      },
+      {
+        "text": "new",
+        "type": "word",
+        "start": 21.76,
+        "end": 21.92
+      },
+      {
+        "text": "language.",
+        "type": "word",
+        "start": 22,
+        "end": 22.64
+      },
+      {
+        "text": "The",
+        "type": "word",
+        "start": 22.96,
+        "end": 23.04
+      },
+      {
+        "text": "same",
+        "type": "word",
+        "start": 23.12,
+        "end": 23.36
+      },
+      {
+        "text": "game.",
+        "type": "word",
+        "start": 23.44,
+        "end": 24.08
+      }
+    ],
+    "word_count": 55,
+    "script_exact_match": true
+  },
+  "disclosures": [
+    "AI-generated narration added to a real recorded product demo.",
+    "Original recorded frames are retained without synthetic replacement.",
+    "Developer checks and automatic transcription; human listening review not performed."
+  ],
+  "audio_sha256": "2c29d0d06559efac54261b4a2f34f91c3c36d8774f2773f4c8585471087a7281"
+}

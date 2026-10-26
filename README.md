@@ -39,8 +39,10 @@ and arbitrary production templates have not been validated. Only the fixed
 - [Action/PDF checks](artifacts/app-verification.json) and
   [actual process restart](artifacts/restart-verification.json).
 - [Demo verification](artifacts/demo-verification.json),
-  [recorded walkthrough](artifacts/proofdeck-demo.mp4),
+  [narrated walkthrough](artifacts/proofdeck-demo-voiced.mp4),
   [PDF downloaded through the app](artifacts/demo-approved-proof.pdf).
+- [Narration script and provenance](artifacts/narration-provenance.json),
+  [frame/audio verification](artifacts/voiceover-verification.json).
 - [Submission and disclosures](SUBMISSION.md), [demo script](DEMO.md).
 - [Research and competitors](STRATEGY.md).
 
@@ -87,8 +89,14 @@ records an editor decision, not an automatic linguistic certification. PDF is an
 RGB editorial proof with exact nominal page boxes, not certified PDF-X/CMYK or
 physically tested prepress output.
 
-Public repository, Clips URL and form receipt remain pending participant account
-connection. A local recording is not a received hackathon submission.
+The GitHub plugin is connected; the destination repository, public Clips URL and
+form receipt remain pending. A local recording is not a received hackathon submission.
+
+The narrated cut adds an ElevenLabs Bella / eleven_v4 English voiceover to the
+existing recorded frames. The silent cut and full recording are retained.
+To rebuild the mix after installing the optional Python dependencies, run
+`.venv/bin/python add_voiceover.py`; it uses the included narration MP3 and
+verifies that every decoded video frame is unchanged.
 
 ## Credits
 
