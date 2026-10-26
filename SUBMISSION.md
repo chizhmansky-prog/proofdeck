@@ -62,8 +62,8 @@ Project: ProofDeck
 
 Public Clips recording URL: PENDING — must be created in the participant's account.
 
-Repository URL: PENDING — GitHub plugin authenticated; destination proofdeck
-repository was not available at the publication check.
+Repository URL: https://github.com/chizhmansky-prog/proofdeck — public,
+source history and narrated demo uploaded and verified.
 
 Live hosted URL: not deployed; optional under the event rules reviewed.
 

@@ -1,5 +1,5 @@
 {
-  "created_at_utc": "2026-10-26T00:20:43.156697+00:00",
+  "created_at_utc": "2026-10-26T00:27:39.095115+00:00",
   "scope": "Source and review artifacts; runtime credentials, databases, caches and dependencies excluded. Manifest excludes itself.",
   "files": [
     {
@@ -29,13 +29,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 4813,
-      "sha256": "f89121f7423a6b04b1c8b7e1c183df0c6afdcde966107cfa44fbda7281a223fa"
+      "bytes": 5114,
+      "sha256": "37c0aa2ebdfd3239e0d9580015acce6cc6448506225aab0d369d5bde525775f9"
     },
     {
       "path": "REPORT.md",
-      "bytes": 13028,
-      "sha256": "f1149b6984d4c82891482b68b7f466c2378e2500373a9b82e37507aebc46ad98"
+      "bytes": 14054,
+      "sha256": "3950d9d8480a293ad7aa6c964e2b73f30fb75a46f10cbdfd57855d9996aae62f"
     },
     {
       "path": "STRATEGY.md",
@@ -44,8 +44,8 @@
     },
     {
       "path": "SUBMISSION.md",
-      "bytes": 3651,
-      "sha256": "e0e6f986ce3056feb6a1ad474b9038a5088a35355f4e159fc078df2b364ebad4"
+      "bytes": 3647,
+      "sha256": "f7fa95ee9752ff9287a20f1d6968151a11b161f2e7c35b45c1bc468b0d382054"
     },
     {
       "path": "WORKPLAN.md",
@@ -1050,6 +1050,11 @@
       "path": "artifacts/proofdeck-narration.mp3",
       "bytes": 402109,
       "sha256": "2c29d0d06559efac54261b4a2f34f91c3c36d8774f2773f4c8585471087a7281"
+    },
+    {
+      "path": "artifacts/publication-verification.json",
+      "bytes": 1059,
+      "sha256": "0f09c48ba2e703066c6df7519608c075c5ecb25ad26ead4aac3eabcf31deccd3"
     },
     {
       "path": "artifacts/restart-verification.json",

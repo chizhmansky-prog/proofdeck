@@ -43,6 +43,9 @@ and arbitrary production templates have not been validated. Only the fixed
   [PDF downloaded through the app](artifacts/demo-approved-proof.pdf).
 - [Narration script and provenance](artifacts/narration-provenance.json),
   [frame/audio verification](artifacts/voiceover-verification.json).
+- [Public repository verification](artifacts/publication-verification.json):
+  the narrated clip, MP3 and a code file downloaded anonymously and matched
+  the corresponding local files byte for byte.
 - [Submission and disclosures](SUBMISSION.md), [demo script](DEMO.md).
 - [Research and competitors](STRATEGY.md).
 
@@ -89,8 +92,10 @@ records an editor decision, not an automatic linguistic certification. PDF is an
 RGB editorial proof with exact nominal page boxes, not certified PDF-X/CMYK or
 physically tested prepress output.
 
-The GitHub plugin is connected; the destination repository, public Clips URL and
-form receipt remain pending. A local recording is not a received hackathon submission.
+The [public repository](https://github.com/chizhmansky-prog/proofdeck) contains
+the source history, narrated clip, PDF and verification artifacts. The public
+Clips URL and form receipt remain pending. A local or GitHub recording is not
+a received hackathon submission.
 
 The narrated cut adds an ElevenLabs Bella / eleven_v4 English voiceover to the
 existing recorded frames. The silent cut and full recording are retained.

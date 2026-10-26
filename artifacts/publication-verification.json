@@ -1,0 +1,30 @@
+{
+  "checked_at_utc": "2026-10-26T00:26:42.342628+00:00",
+  "repository_url": "https://github.com/chizhmansky-prog/proofdeck",
+  "visibility": "public",
+  "initial_uploaded_commit": "336d7b75f86f5203b3a7cfdef9db9c856b593c2f",
+  "scope": "Initial published source snapshot, before publication-report updates. Anonymous downloads use this immutable commit.",
+  "anonymous_downloads": [
+    {
+      "path": "artifacts/proofdeck-demo-voiced.mp4",
+      "http_status": 200,
+      "bytes": 1530035,
+      "sha256": "e1dd30b7467df9351520cc2aa00d1268caf15f5dbc6c0a5a411a7e4e5a143c54",
+      "matches_local": true
+    },
+    {
+      "path": "artifacts/proofdeck-narration.mp3",
+      "http_status": 200,
+      "bytes": 402109,
+      "sha256": "2c29d0d06559efac54261b4a2f34f91c3c36d8774f2773f4c8585471087a7281",
+      "matches_local": true
+    },
+    {
+      "path": "app/actions/propose-copy.ts",
+      "http_status": 200,
+      "bytes": 1483,
+      "sha256": "973c4d9bd4a432fb17996aca5991fa6ccf5814ce5cfb96c842ab9f0071db353c",
+      "matches_local": true
+    }
+  ]
+}
